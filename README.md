@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Information</title>
 </head>
 <body>
     <h1> 👋 Hi, I’m @bragaaz my real name is <strong>Pedro Henrique</strong> </h1>
