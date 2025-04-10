@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1> 👋 Hi, I’m @bragaaz my real name is <strong>Pedro Henrique</strong> </h1>
+    <h1> 👋 Hi, I’m <Strong>Pedro</strong> but you can call me Bragaaz </h1>
     <p> 👀 I’m very interested in Music, Games, Coding, I've already said music?? </p>
     <p> 🌱 I’m currently learning Front-End and Back-End  </p>
     <p>  💞️ I’m looking to collaborate on a project </p>
